@@ -70,6 +70,3 @@ Implementamos medidas de seguridad estándar de la industria para proteger sus d
 ## 7. Contacto
 
 Si tiene dudas sobre esta política de privacidad o el manejo de sus datos, puede contactar al soporte técnico de la aplicación.
-
----
-*Este documento es informativo y complementa los contratos laborales y políticas internas de su empresa.*
