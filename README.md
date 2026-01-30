@@ -32,7 +32,7 @@ La aplicación recopila datos de ubicación precisa y aproximada.
 *   **¿Para qué?** Para la funcionalidad de "Nivelador" en la cámara, ayudando al usuario a tomar fotografías rectas y alineadas.
 
 ### D. Identificación y Biometría
-*   **Autenticación:** Utilizamos credenciales corporativas (correo y contraseña) gestionadas a través de Firebase Auth.
+*   **Autenticación:** Utilizamos credenciales corporativas (correo y contraseña).
 *   **Biometría:** Si su dispositivo lo permite, puede usar su huella digital o reconocimiento facial para iniciar sesión rápidamente. **Nota:** Los datos biométricos se procesan exclusivamente en el hardware de su dispositivo y **nunca** son enviados a nuestros servidores.
 
 ### E. Almacenamiento (Archivos)
