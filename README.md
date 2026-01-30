@@ -25,7 +25,7 @@ La aplicación recopila datos de ubicación precisa y aproximada.
 *   **¿Cómo se usa?** La aplicación utiliza la cámara del dispositivo.
 *   **¿Para qué?**
     *   Tomar fotografías de exhibiciones, productos y material publicitario como evidencia de trabajo.
-    *   Escanear códigos de barras (usando ML Kit para identificar productos.
+    *   Escanear códigos de barras.
 
 ### C. Sensores del Dispositivo
 *   **¿Cómo se usa?** Accedemos al **acelerómetro** y **magnetómetro**.
